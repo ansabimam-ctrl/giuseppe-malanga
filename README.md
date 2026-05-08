@@ -1,4 +1,4 @@
-# Judith Lesley - Professional Portfolio V3.0
+# Giuseppe Malanga - Professional Portfolio V1.0
 
 A production-grade Next.js application showcasing assets across character scopes.
 
